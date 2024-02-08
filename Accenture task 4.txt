@@ -1,0 +1,18 @@
+Dear Social Buzz client holders, 
+
+I am pleased to present to you the key insights, which provides a detaile overview of our recent data analytics project for Social Buzz. As a data analyst, 
+I would like to explain the key findings and recommendations from the project.
+
+The project's main objective was to identify Social Buzz's top five most popular categories of content from over 100,000 daily pieces of content, 
+including text, images, videos, and GIFs. 
+
+Our team, led by Andrew Fleming and Marcus Rompton, undertook various processes such as data understanding, cleansing, modeling, and 
+analysis to derive meaningful insights from the raw data.
+
+Our analysis revealed that animals are the most popular category, and photos are the preferred content type. We recommend focusing on GIFs and audio to 
+enhance their usage. The presentation also includes a summary of the findings, the analytics team involved, and the analytical process.
+
+We hope that this presentation provides valuable insights into Social Buzz's content strategy and helps you make informed decisions.
+ Please let us know if you have any questions or require further information.
+Thank you for your time and consideration.
+
